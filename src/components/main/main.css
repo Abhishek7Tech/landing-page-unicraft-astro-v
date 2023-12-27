@@ -1,5 +1,5 @@
 .main {
-    background-image: url("./backgrounds/nav-bg.webp");
+    background-image: url("/backgrounds/nav-bg.webp");
     background-repeat: no-repeat;
     background-size: cover;
 }
