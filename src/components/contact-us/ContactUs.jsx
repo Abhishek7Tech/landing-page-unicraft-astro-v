@@ -7,7 +7,6 @@ const ContactUs = () => {
   const contactRef = useRef(null);
   useEffect(() => {
     if(contactRef) {
-      console.log("CONTACT", contactRef);
       contact.set(contactRef);
     }
   },[contactRef])
